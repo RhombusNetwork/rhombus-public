@@ -1,11 +1,4 @@
-# Rhombus Demos
-
-## lighthouse
-
-Rhombus `lighthouse` contracts are easy destinations for Oracle data. Designed to be updated at maximum gas efficiency, lighthouses are able to be interrogated to reveal the data, when it was updated and a nonce.
-
-
-#Rhombus Oracles
+# Rhombus Oracles
 
 ## Lighthouse
 Rhombus `lighthouse` contracts are easy destinations for Oracle data. Designed to be updated at maximum gas efficiency, lighthouses are able to be interrogated to reveal the data, when it was updated and a nonce.
