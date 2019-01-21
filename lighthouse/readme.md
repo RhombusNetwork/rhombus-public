@@ -1,10 +1,10 @@
 # Lighthouse
 
-## acknowledgement
+## Acknowledgement
 
 The Lighthouse contract was inspired by ds-thing from dapphub.com
 
-## description
+## Description
 
 Lighthouse contracts are deployed where the information may be required by several contracts or the client does not want the data to be poked into their contract directly.
 
@@ -12,7 +12,7 @@ A lighthouse contract is a semi custom contract which may be updated frequently 
 
 Data is stored in the contract in a compressed format owing to the fact that moving data to storage is one of the major gas costs.
 
-## General features
+## General Features
 
 * periodically updated by a Rhombus Oracle
 * data is typically restricted to uint128
