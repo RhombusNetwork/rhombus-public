@@ -1,4 +1,7 @@
 # Rhombus Oracles
+
+## Part of BUIDLWeek?
+See our blog post with our available resources here: https://blog.rhombus.network/BUIDL-Resources
   
 ## Local testing
 
